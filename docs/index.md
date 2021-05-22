@@ -8,3 +8,4 @@ The Website is hosted at <a href="http://ieee.gectcr.ac.in" target="_blank">ieee
     npm install
     
 The docs site is deployed <a href="https://ieee-gect.github.io/docs"> here</a>
+First deployed on May 23
