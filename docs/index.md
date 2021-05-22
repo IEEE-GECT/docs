@@ -7,3 +7,4 @@ The Website is hosted at <a href="http://ieee.gectcr.ac.in" target="_blank">ieee
     cd web-core
     npm install
     
+The docs site is deployed <a href="https://ieee-gect.github.io/docs"> here</a>
